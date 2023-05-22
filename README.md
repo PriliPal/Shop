@@ -1,6 +1,6 @@
 # Store Vue 3 + Laravel 10 template
 
-Front-end collaborator: [PriliPal](https://github.com/PriliPal)
+Back-end collaborator: [Mezuno](https://github.com/Mezuno)
 
 >README file is under construction
 
